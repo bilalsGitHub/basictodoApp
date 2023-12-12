@@ -33,10 +33,8 @@ Features
 •	CSS Styling: Simple and clean design.
 Usage
 1.	Installation:
-bashCopy code
 git clone https://github.com/your-username/react-todo-app.git cd react-todo-app npm install 
 2.	Start the App:
-bashCopy code
 npm start 
 3.	Customize:
 •	Adjust styles in src/styles.
